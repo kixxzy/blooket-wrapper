@@ -2,7 +2,7 @@
 
 A node.js wrapper for the Blooket API
 
-The documentation can be found [here](https://github.com/glixzzy/blooket-wrapper/blob/main/Documention.md)
+The documentation can be found [here](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md)
 
 # Usage
 
