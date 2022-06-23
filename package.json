@@ -1,0 +1,35 @@
+{
+  "name": "blooket",
+  "version": "1.0.5",
+  "description": "Blooket API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "glizzz_y",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "events": "^3.3.0",
+    "ws": "^8.2.3"
+  },
+  "keywords": [
+    "Blooket",
+    "Blooket API wrapper",
+    "Blooket hack",
+    "Blooket docs",
+    "Blooket API docs",
+    "Blooket nodejs",
+    "Blooket.js",
+    "blooket js",
+    "blooket api",
+    "blooket api docs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glixzzy/blooket-wrapper.git"
+  },
+  "devDependencies": {
+    "eslint": "^8.3.0"
+  }
+}
