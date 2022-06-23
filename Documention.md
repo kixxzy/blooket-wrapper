@@ -4,9 +4,9 @@ Documentation for the node.js Blooket library
 
 ## Documentation
 
-- [Basic Usage](https://github.com/glixzzy/blooket-wrapper/blob/main/Documention.md#basic-usage)
-- [Functions](https://github.com/glixzzy/blooket-wrapper/blob/main/Documention.md#functions)
-- [Events](https://github.com/glixzzy/blooket-wrapper/blob/main/Documention.md#events)
+- [Basic Usage](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md#basic-usage)
+- [Functions](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md#functions)
+- [Events](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md#events)
 
 ### Usage
 ```js
@@ -338,36 +338,36 @@ client.on('gameEnded', data => {
 ```
 
 ## Events
-`gameCreated` - [createGame()](https://github.com/glixzzy/blooket-wrapper/blob/main/Documention.md#parameters-1)
+`gameCreated` - [createGame()](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md#parameters-1)
 
 - Emitted when the client creates a live game.
     - Returns an `Object`
 
-`flood` - [floodGames()](https://github.com/glixzzy/blooket-wrapper/blob/main/Documention.md#parameters-5)
+`flood` - [floodGames()](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md#parameters-5)
 
 - Emitted when the client flood a game.
     - Returns an `Object`
 
-`Joined` - [joinGame()](https://github.com/glixzzy/blooket-wrapper/blob/main/Documention.md#parameters-7)
+`Joined` - [joinGame()](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md#parameters-7)
 
 - Emitted when the client joins a game.
     - Returns an `Object`
 
-`spamPlays` - [spamPlayGame()](https://github.com/glixzzy/blooket-wrapper/blob/main/Documention.md#parameters-8)
+`spamPlays` - [spamPlayGame()](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md#parameters-8)
 
 - Emitted when the client spam plays a game.
 
-`goldGiven` - [giveGold()](https://github.com/glixzzy/blooket-wrapper/blob/main/Documention.md#parameters-9)
+`goldGiven` - [giveGold()](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md#parameters-9)
 
 - Emitted when the client gives gold to a user.
     - Returns an `Object`
 
-`goldStolen` - [stealGold()](https://github.com/glixzzy/blooket-wrapper/blob/main/Documention.md#parameters-10)
+`goldStolen` - [stealGold()](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md#parameters-10)
 
 - Emitted when the client steal gold from a player.
     - Returns an `Object`
 
-`gameEnded` - [endGame()](https://github.com/glixzzy/blooket-wrapper/blob/main/Documention.md#parameters-11)
+`gameEnded` - [endGame()](https://github.com/glixxzzy/blooket-wrapper/blob/main/Documention.md#parameters-11)
 
 - Emitted when the client ends a game.
     - Returns an `Object`
