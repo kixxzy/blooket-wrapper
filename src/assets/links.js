@@ -13,4 +13,3 @@ module.exports = {
         login: "https://api.blooket.com/api/users/login"
     },
 };
-
