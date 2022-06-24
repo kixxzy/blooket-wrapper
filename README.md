@@ -17,4 +17,3 @@ client.on('Joined', data => {
     console.log(`Joined game with name: ${data.name} \nJoined game with blook: ${data.blook}`)
 });
 ```
-
